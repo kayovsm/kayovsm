@@ -3,13 +3,13 @@
 I'm graduating in Bachelor degree in Computer Science at IFMA campus Caxias, I am a Flutter developer.
 
 * 🌍  I'm based in Caxias, MA
-* ✉️  You can contact me at [kayovinicius227@gmail.com](mailto:kayovinicius227@gmail.com)
+* ✉️  You can contact me at [kayovinicius227@gmail.com](mailto:kayovsmdev@gmail.com)
 * 🧠  I'm learning Flutter
 
 ### GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kayo-Vinicius&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kayovsm&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="stats graph"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayovsm&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kayovsm&layout=compact&langs_count=6&theme=tokyonight" height="150" alt="stats graph" />
 </div>
