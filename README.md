@@ -3,7 +3,7 @@
 I'm graduating in Bachelor degree in Computer Science at IFMA campus Caxias, I am a Flutter developer.
 
 * 🌍  I'm based in Caxias, MA
-* ✉️  You can contact me at [kayovinicius227@gmail.com](mailto:kayovsmdev@gmail.com)
+* ✉️  You can contact me at [kayovsmdev@gmail.com](mailto:kayovsmdev@gmail.com)
 * 🧠  I'm learning Flutter
 
 ### GitHub Stats
