@@ -19,7 +19,7 @@ I'm graduating in Bachelor degree in Computer Science at IFMA campus Caxias, I a
 <p align="left">
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,python,firebase,sqlite,mysql,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,kmp,python,firebase,sqlite,mysql,figma&theme=dark" />
   </a>
 </div>
   
