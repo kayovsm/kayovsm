@@ -1,9 +1,8 @@
-### Hi My name is Kayo Mendes
+### Olá! Meu nome é Kayo Mendes.
 
-I'm graduating in Bachelor degree in Computer Science at IFMA campus Caxias, I am a Flutter developer.
+Sou Bacharel em Ciência da Computação pelo Institulo Federal do Maranhao - Campus Caxias, e sou desenvolvedor mobile com Flutter e Kotlin.
 
-* 🌍  I'm based in Caxias, MA
-* ✉️  You can contact me at [kayovsmdev@gmail.com](mailto:kayovsmdev@gmail.com)
+* ✉️  Você pode entrar em contato comigo pelo e-mail [kayovsmdev@gmail.com](mailto:kayovsmdev@gmail.com)
 
 ### GitHub Stats
 
